@@ -1,5 +1,11 @@
 # Changelog
 
+## 3.16.1
+
+### Patch Changes
+
+- [#275](https://github.com/cloudflare/workers-types/pull/275) [`c9e2084`](https://github.com/cloudflare/workers-types/commit/c9e2084294d07fccfbcb33c2da281415204083c9) Thanks [@KianNH](https://github.com/KianNH)! - chore: add corporateProxy to request.cf.botManagement
+
 ## 3.16.0
 
 ### Minor Changes
